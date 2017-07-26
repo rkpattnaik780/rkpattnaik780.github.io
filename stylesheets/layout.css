@@ -1,0 +1,25 @@
+*{ padding : 0px ;
+   margin : 0px ;}
+body { background: linear-gradient(to right, #ccffcc , white);
+       }
+i { padding : 3px 8px 3px 8px ;
+    transition: font-size 0.5s;
+    font-size : 35px !important;}
+i:hover{ font-size : 48px !important;}
+.biodata{margin : auto ;}
+#pic{ border : 5px solid #ccffcc;
+      border-radius : 35px ;}
+.biodata{border : 0px solid black;
+         border-radius : 20px;}
+.biodata td{ text-align: center;
+                padding : 10px ;
+                font-family: 'Artifika', serif;
+                margin: 5px ;
+                width : 200px ;}
+.biodata th{ text-align: center;
+                padding : 10px ;
+                margin: 5px ;
+                font-family: 'Roboto', sans-serif;
+                vertical-align: top;
+                width : 115px ;}
+#name{ font-size: 27px ;}
